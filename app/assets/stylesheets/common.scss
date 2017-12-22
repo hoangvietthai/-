@@ -1,0 +1,13 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+p,a,h1,h2,h3 {
+	font-family:  "Helvetica Neue", Helvetica, Arial, san-serif !important;
+}
+h3 a:hover, table a:hover{
+	text-decoration: none;
+	background-color: transparent !important;
+	color: #563d7c !important;
+}
+a.btn{
+	color: #fff !important;
+}
